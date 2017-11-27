@@ -37,3 +37,16 @@ C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCShar
 C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.MainForm.resources
 C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.csproj.GenerateResource.Cache
 C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\bin\Debug\BWViewerCSharp.pdb
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.exe
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.pdb
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\bin\Debug\BWViewerCSharp.exe
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\bin\Debug\BWViewerCSharp.pdb
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.AboutForm.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.BrightnessAndContrastDialog.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.ChildForm.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.DeNoiseDialog.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramControl.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramDialog.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.MainForm.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\GM\BWViewerCSharp\obj\Debug\BWViewerCSharp.csproj.GenerateResource.Cache
