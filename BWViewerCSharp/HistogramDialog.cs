@@ -122,6 +122,7 @@ namespace BWViewerCSharp
             // 
             // okButton
             // 
+            this.okButton.Enabled = false;
             this.okButton.Location = new System.Drawing.Point(175, 278);
             this.okButton.Name = "okButton";
             this.okButton.Size = new System.Drawing.Size(88, 24);
@@ -257,16 +258,19 @@ namespace BWViewerCSharp
 
         private void radioButtonRedCollor_Click(object sender, System.EventArgs e)
         {
+            this.okButton.Enabled = true;
             _selectColor = 2;
         }
 
         private void radioButtonGreenColor_Click(object sender, System.EventArgs e)
         {
+            this.okButton.Enabled = true;
             _selectColor = 1;
         }
 
         private void radioButtonBlueColor_Click(object sender, System.EventArgs e)
         {
+            this.okButton.Enabled = true;
             _selectColor = 0;
         }
     }
