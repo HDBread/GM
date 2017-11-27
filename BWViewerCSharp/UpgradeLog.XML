@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BWViewerCSharp">
+</Property><Property Name="Solution File" Value="D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\BWViewerCSharp.sln">
+</Property><Property Name="Date" Value="4 июня 2009 г.">
+</Property><Property Name="Time" Value="14:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BWViewerCSharp.sln" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\BWViewerCSharp.sln">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="BWViewerCSharp.csproj" Description="Project file successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\BWViewerCSharp.csproj">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="BWViewerCSharp.csproj.user" Description="Project user file successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\BWViewerCSharp.csproj.user">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="AboutForm.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\AboutForm.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="BMDocument.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\BMDocument.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="BrightnessAndContrastDialog.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\BrightnessAndContrastDialog.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="ChildForm.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\ChildForm.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="DeNoiseDialog.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\DeNoiseDialog.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="Filter.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\Filter.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="HistogramControl.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\HistogramControl.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="HistogramDialog.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\HistogramDialog.cs">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="MainForm.cs" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\MainForm.cs">
+</Event><Event ErrorLevel="2" Project="BWViewerCSharp" Source="App.ico" Description="Failed to backup file as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="AboutForm.resx" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\AboutForm.resx">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="BrightnessAndContrastDialog.resx" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\BrightnessAndContrastDialog.resx">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="ChildForm.resx" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\ChildForm.resx">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="DeNoiseDialog.resx" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\DeNoiseDialog.resx">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="HistogramControl.resx" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\HistogramControl.resx">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="HistogramDialog.resx" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\HistogramDialog.resx">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="MainForm.resx" Description="File successfully backed up as D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="BWViewerCSharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BWViewerCSharp" Source="BWViewerCSharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BWViewerCSharp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BWViewerCSharp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BWViewerCSharp" Source="BWViewerCSharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

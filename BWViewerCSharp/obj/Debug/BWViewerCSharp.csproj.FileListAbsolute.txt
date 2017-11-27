@@ -1,0 +1,39 @@
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.AboutForm.resources
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.BrightnessAndContrastDialog.resources
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.ChildForm.resources
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.DeNoiseDialog.resources
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramControl.resources
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramDialog.resources
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.MainForm.resources
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.csproj.GenerateResource.Cache
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\bin\Debug\BWViewerCSharp.exe
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\bin\Debug\BWViewerCSharp.pdb
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.exe
+D:\Users\LipovaNG\Rubius\ENBLEND\BWViewerCSharp\obj\Debug\BWViewerCSharp.pdb
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.exe
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.pdb
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\bin\Debug\BWViewerCSharp.exe
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\bin\Debug\BWViewerCSharp.pdb
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.AboutForm.resources
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.BrightnessAndContrastDialog.resources
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.ChildForm.resources
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.DeNoiseDialog.resources
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramControl.resources
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramDialog.resources
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.MainForm.resources
+C:\Users\NeshCroft\Desktop\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.csproj.GenerateResource.Cache
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.exe
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.pdb
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\bin\Debug\BWViewerCSharp.exe
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.AboutForm.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.BrightnessAndContrastDialog.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.ChildForm.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.DeNoiseDialog.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramControl.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.HistogramDialog.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.MainForm.resources
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\obj\Debug\BWViewerCSharp.csproj.GenerateResource.Cache
+C:\Users\NeshCroft\Desktop\ТУСУР\5 семестр\ГМ\GML1-3\BWViewerCSharp\bin\Debug\BWViewerCSharp.pdb
